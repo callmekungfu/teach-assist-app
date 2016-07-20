@@ -1,6 +1,6 @@
 # Teach Assist App
 
-[Teach Ass](http://startbootstrap.com/template-overviews/sb-admin-2/) is an open source, student client for teach assist
+[Teach Assist](http://startbootstrap.com/template-overviews/sb-admin-2/) is an open source, student client for teach assist
 
 ## Getting Started
 
